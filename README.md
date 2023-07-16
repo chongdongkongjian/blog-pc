@@ -1,4 +1,4 @@
-# 博客 PC 端
+# 个人博客 PC 端
 
 # 技术栈
 
@@ -6,3 +6,4 @@
 - Vue v3
 - Vite v4
 - Naive v2
+- tailwindCSS v3
