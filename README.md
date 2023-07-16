@@ -1,6 +1,14 @@
 # 个人博客 PC 端
 
-# 技术栈
+## PC 端代码地址
+
+github: https://github.com/chongdongkongjian/blog-pc
+
+## server 代码地址
+
+github: https://github.com/chongdongkongjian/blog-server
+
+## 技术栈
 
 - TypeScript v5
 - Vue v3
