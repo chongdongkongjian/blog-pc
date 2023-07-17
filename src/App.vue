@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import HelloBlog from './components/HelloBlog.vue'
 </script>
 
@@ -6,3 +6,4 @@ import HelloBlog from './components/HelloBlog.vue'
   <HelloBlog />
 </template>
 
+<style scoped></style>

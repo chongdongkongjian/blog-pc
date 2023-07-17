@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./src/**/*.vue"],
+  content: ["./src/**/*"],
   theme: {
     extend: {},
   },
