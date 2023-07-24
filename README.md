@@ -15,3 +15,4 @@ github: https://github.com/chongdongkongjian/blog-server
 - Vite v4
 - Naive v2
 - tailwindCSS v3
+- vue-router v4
